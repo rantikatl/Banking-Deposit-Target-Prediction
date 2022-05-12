@@ -1,5 +1,11 @@
 # Prediksi Target Kampanye Deposito
 
+# Overview
+- Dataset dapat diakses di [Kaggle](https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets)
+- Pre-processing yang dilakukan adalah 
+> normalisasi dan standardisasi data, handling outliers menggunakan z-score, serta handling imbalance menggunakan undersampling, oversampling, dan SMOTE
+- Melakukan modeling dengan 9 model, dimana model terbaik adalah RandomForest dengan dengan sampoversampling
+
 # Problem
 - Suatu bank ingin meningkatkan jumlah nasabah yang mendaftar deposito, dimana salah satu yang dapat dilakukan adalah telephonic marketing
 - Telephonic marketing membutuhkan biaya besar, sehingga tidak bisa ditargetkan ke seluruh nasabah
