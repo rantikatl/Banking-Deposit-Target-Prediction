@@ -1,17 +1,16 @@
-# Prediksi Campaign Deposito
+# Prediksi Target Kampanye Deposito
 
 # Problem
-Bank Portugal ingin meningkatkan jumlah nasabah yang mendaftar deposito <br/>
-Salah satu campaign yang dilakukan adalah telephonic marketing <br/>
-Telephonic marketing membutuhkan biaya besar, sehingga tidak bisa ditargetkan ke seluruh nasabah <br/>
-Perlu adanya metode yang tepat agar dapat memilih nasabah yang sesuai sehingga menghemat resource dari bank <br/>
+- Suatu bank ingin meningkatkan jumlah nasabah yang mendaftar deposito, dimana salah satu yang dapat dilakukan adalah telephonic marketing
+- Telephonic marketing membutuhkan biaya besar, sehingga tidak bisa ditargetkan ke seluruh nasabah
+- Perlu adanya metode yang tepat agar dapat memilih nasabah yang sesuai sehingga menghemat resource dari bank
 
 # Goals
-Meningkatkan conversion rate nasabah untuk membeli deposito
+Meningkatkan conversion rate nasabah yang mendaftar deposito
 
 # Objective
-Membuat model machine learning yang dapat memprediksi profil nasabah yang sesuai untuk diberikan campaign deposito
+Membuat model machine learning untuk memprediksi nasabah yang akan diberikan kampanye deposito
 
 # Business Metrics
-Conversion Rate (Jumlah nasabah yang mendaftar deposito setelah diberikan campaign) <br/>
-Acquisition Cost (Biaya telemarketing yang dikeluarkan selama campaign berlangsung)
+- Conversion Rate (Jumlah nasabah yang mendaftar deposito setelah diberikan campaign)
+- Acquisition Cost (Biaya telemarketing yang dikeluarkan selama campaign berlangsung)
