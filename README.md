@@ -2,8 +2,10 @@
 
 # Overview
 - Dataset dapat diakses di [Kaggle](https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets)
-- Pre-processing yang dilakukan adalah 
-> normalisasi dan standardisasi data, handling outliers menggunakan z-score, serta handling imbalance menggunakan undersampling, oversampling, dan SMOTE
+- Pre-processing yang dilakukan: 
+  - Normalisasi dan standardisasi data
+  - Handling outliers menggunakan z-score
+  - Handling imbalance menggunakan undersampling, oversampling, dan SMOTE
 - Melakukan modeling dengan 9 model, dimana model terbaik adalah RandomForest dengan dengan sampoversampling
 
 # Problem
