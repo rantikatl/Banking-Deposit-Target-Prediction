@@ -6,7 +6,7 @@
   - Normalisasi dan standardisasi data
   - Handling outliers menggunakan z-score
   - Handling imbalance menggunakan undersampling, oversampling, dan SMOTE
-- Melakukan modeling dengan 9 model, dimana model terbaik adalah RandomForest dengan dengan sampoversampling
+- Melakukan modeling dengan 9 model, dimana model terbaik adalah RandomForest dengan oversampling
 
 # Problem
 - Suatu bank ingin meningkatkan jumlah nasabah yang mendaftar deposito, dimana salah satu yang dapat dilakukan adalah telephonic marketing
